@@ -1,0 +1,13 @@
+{
+  "sources": [
+    {"name": "India Scammers emails", "type": "html", "url": "https://indiascammers.com/emails/"},
+    {"name": "India Scammers scammers JSON", "type": "json", "url": "https://indiascammers.com/data/scammers.json"},
+    {"name": "India Scammers contacts JSON", "type": "json", "url": "https://indiascammers.com/data/contacts.json"},
+    {"name": "Reddit ScamNumbers", "type": "html", "url": "https://www.reddit.com/r/ScamNumbers/?f=flair_name%3A%22Scam%20Number%20(Fake%20Charge%2FRefund)%22"},
+    {"name": "TRAI MNRL portal", "type": "html", "url": "https://mnrl.trai.gov.in/"},
+    {"name": "Scribd black-doc", "type": "html", "url": "https://www.scribd.com/document/[REDACTED]/black-doc"},
+    {"name": "BSE MNRL reference PDF", "type": "skip", "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/Attach/Annexure_1_DIP_Quick_Reference_Guide_Actions_advised_to_Banks_FIs_MNRL_and_FRI$bfe8ff0c-8672-4309-8109-aacd71be9669.pdf"},
+    {"name": "Kaggle serious fraud page", "type": "html", "url": "https://www.kaggle.com/code/nehaprabhavalkar/crimes-in-india-analysis/input?select=31_Serious_fraud.csv"},
+    {"name": "Sophtron MCP endpoint", "type": "skip", "url": "https://mcp.sophtron.com/mcp"}
+  ]
+}

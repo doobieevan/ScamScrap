@@ -1,0 +1,14 @@
+ How to Run It
+Save: Copy the entire code block above and save it as scam_scraper.py.
+needs python and install pip if haven't already.
+Install Dependencies: Open your terminal/CMD and run:
+bash
+pip install requests beautifulsoup4 spacy
+Execute: In the same directory where you saved the file, run:
+bash
+python scam_scraper.py
+🎁 What You Will Get
+After running, you will find two files in the same directory:
+
+scam_numbers_report_enhanced.txt: The Plain Text version, formatted with clear headers, perfect for printing or reading quickly.
+scam_numbers_report_enhanced.json: The JSON version, which is perfect for loading into Excel, Google Sheets, or a database, as the structure is perfectly defined.

@@ -1,0 +1,1 @@
+{"sources":[{"name":"Fixture CSV","type":"csv","url":"sources/test.csv"},{"name":"Fixture JSON","type":"json","url":"sources/test.json"},{"name":"Fixture text","type":"txt","url":"sources/test.txt"}]}
